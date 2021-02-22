@@ -113,8 +113,11 @@ sections:
           ### Why Code Comments
 
 
-          Know your PPC from your CPA and CTR — a quick start guide to
-          performance marketing channels, setups, budgeting and creative.
+          Try writing complex code on a Friday and then explaining it to your
+          co-worker next Thursday.
+
+
+          Can't do it? This chapter is for you!
       - content: |
           ### Why Bugs are Good
 
