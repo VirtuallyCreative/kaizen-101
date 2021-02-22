@@ -84,7 +84,7 @@ sections:
           journey. I hope it inspires the next generation of developers, as I
           was.”
         subtitle: 'Al Romano, Author - Kaizen 101 for Developers'
-        image: images/al romano.png
+        image: images/al romano-real.png
         image_alt: Brandon Guidelines
         media_position: left
         media_width: thirty-three
