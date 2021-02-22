@@ -180,7 +180,7 @@ sections:
           *   Avoid common early mistakes starting out in a development
           profession
       - content: >
-          #### Senior Developers
+          #### Senior / Team-Lead Developers
 
 
           *   New insight into some of your current processes & routines
