@@ -6,7 +6,7 @@ sections:
     subtitle: Because code always runs on the first try.
     content: >
       Kaizen 101 for Developers is a tongue-in-cheek approach to learning a
-      self-taught path in web development of computer web technologies in 2021.
+      self-taught path in web development in 2022.
     actions:
       - label: Get the e-book
         url: 'https://leanpub.com/kaizen101fordevelopers'
