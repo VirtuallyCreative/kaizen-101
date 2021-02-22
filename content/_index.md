@@ -291,7 +291,7 @@ sections:
   - type: cta_section
     title: Download the e-book today
     actions:
-      - label: Get the e-book
+      - label: Pay what you want e-book
         url: 'https://leanpub.com/kaizen101fordevelopers'
         style: primary
     actions_position: bottom
