@@ -230,7 +230,7 @@ sections:
     title: Download the e-book today
     actions:
       - label: Get the e-book
-        url: /pricing
+        url: 'https://leanpub.com/kaizen101fordevelopers'
         style: primary
     actions_position: bottom
     align: center
