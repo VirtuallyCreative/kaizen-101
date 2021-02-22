@@ -103,9 +103,11 @@ sections:
 
 
           Learn from the pain of developers past. Bask in your glory of all that
-          is Stack Overflow. 
+          is Stack Overflow.
 
-          "Back in my day, we solved our own problems" - Some Dinosaur Developer
+
+          *"Back in my day, we solved our own problems" - Some Dinosaur
+          Developer*
       - content: >
           ### Why Code Comments
 
