@@ -15,9 +15,6 @@ params:
       - label: Pricing
         url: 'https://leanpub.com/kaizen101fordevelopers'
         style: link
-      - label: Story
-        url: /story
-        style: link
     has_secondary_nav: true
     secondary_nav_links:
       - label: Start Learning
