@@ -168,7 +168,7 @@ sections:
   - type: features_section
     features:
       - title: Chapter Breakdown
-        subtitle: How you'll implement what you learn
+        subtitle: A quick peek at all chapters in the book
         content: |-
           - Multi-channel marketing plan tutorials
           - Brand questionnaire and worksheet
