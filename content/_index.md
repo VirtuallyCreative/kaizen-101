@@ -54,7 +54,7 @@ sections:
   - type: features_section
     features:
       - title: What’s Inside
-        subtitle: How this book will teach you real world marketing
+        subtitle: Learn methodology behind successful developer patterns & routines
         content: |-
           - All you need to know about PPC
           - How to create a brand that sells
