@@ -191,12 +191,17 @@ sections:
           *   Gain a fresh perspective on must-have skills as a developer
 
           *   Learn how to manage a team and accelerate your growth path
-      - content: |
+      - content: >
           #### Lead / Principle Developers
 
+
           *   Learn development team social dynamics
+
           *   Improve team building and trust
-          *   Learn to provide growth potential in your team(s)
+
+          *   Learn to provide growth potential in your team(s) capabilities and
+          business value
+
           *   Learn to keep team performance high with minimal burnout
       - content: >
           #### Chief Technology Officers
