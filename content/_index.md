@@ -167,12 +167,18 @@ sections:
   - type: grid_section
     title: Who Should Read This Book?
     grid_items:
-      - content: |-
-          #### Marketers
-           - Learn how all of the marketing pieces fit together
-           - Master digital marketing for any business
-           - Get access to marketing gurus and their tips
-           - Prepare killer presentations and collateral
+      - content: >
+          #### New & Junior Developers
+
+
+          *   Learn concepts and skills bootcamps won't show you
+
+          *   Create processes and routines that will accelerate your learning
+
+          *   Learn how to manage your time better as a new developer
+
+          *   Avoid common early mistakes starting out in a development
+          profession
       - content: |-
           #### Designers
            - Gain big picture insights that affect design
