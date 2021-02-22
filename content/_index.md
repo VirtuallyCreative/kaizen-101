@@ -256,7 +256,9 @@ sections:
         image: images/code-review.png
         media_position: right
         media_width: fourty
-        image_alt: Coding Horror's "What the Fucks' per minute" cartoon.
+        image_alt: >-
+          Coding Horror's Code quaility measurement of "What the Fucks' per
+          minute" cartoon.
     feature_padding_vert: small
     align: center
     background_color: none
