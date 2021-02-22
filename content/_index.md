@@ -4,10 +4,10 @@ sections:
   - type: hero_section
     title: Kaizen 101 for Developers
     subtitle: Because code always runs on the first try.
-    content: |-
-      This book is your go-to guide for all marketing channels. Learn how to
-      create effective landing pages, compelling ads, creative copywriting and
-      converting marketing materials for any business.
+    content: >
+      Kaizen 101 for Developers is a book Bootcamp to adopt an already proven
+      framework on continuous improvement and use this to your advantage on the
+      road to becoming a better you.
     actions:
       - label: Get the book
         url: /pricing
