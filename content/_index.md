@@ -194,10 +194,10 @@ sections:
       - content: |
           #### Lead / Principle Developers
 
-          *   Learn 
-          *   Upgrade your brand, website and social media
-          *   Prepare effective collateral for your business
-          *   Start advertising your company online
+          *   Learn development team social dynamics
+          *   Improve team building and trust
+          *   Learn to provide growth potential in your team(s)
+          *   Learn to keep team performance high with minimal burnout
       - content: >
           #### Chief Technology Officers
 
