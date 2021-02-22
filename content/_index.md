@@ -10,7 +10,7 @@ sections:
       road to becoming a better you.
     actions:
       - label: Get the book
-        url: /pricing
+        url: 'https://leanpub.com/kaizen101fordevelopers'
         style: primary
         has_icon: true
         icon: arrow-right
