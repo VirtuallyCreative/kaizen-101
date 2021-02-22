@@ -103,8 +103,8 @@ sections:
 
           Discovery, research and pure intuition: How to slice and dice all the
           information you can gather about your customers.
-      - content: >-
-          ### Performance Marketing
+      - content: >
+          ### Why Code Comments
 
 
           Know your PPC from your CPA and CTR — a quick start guide to
