@@ -229,40 +229,30 @@ sections:
       - title: What can I expect?
         subtitle: 'Al Romano, Self-Taught Developer'
         content: >
-          **Web Development in the real world** is very different than what we
-          learn
-
-          at school. If you've recently graduated some bootcamp and are making
-          your first
-
-          steps in the business, it's imperative that you know how to use the
-
-          tools and tricks of the trade.
+          Kaizen 101 for Developers is a tongue-in-cheek approach to what it
+          means to be a developer of computer web technologies in 2021.
 
 
-          > **The world of web development has changed dramatically in the last
-          10
-
-          > years. Those who understand it, will succeed. But those who stay
-
-          > behind, will have a lot to catch up on.”**
+          Chock-full of practical (anecdotal) examples on how to improve your
+          daily developer workflow from tried, tested and repeatedly failed
+          until true methods on,
 
 
-          In this book, I will teach you everything I know about how to
-          continually improve yourself which I believe leads one to be a
-          successful developer.  
+          *   personal development,
 
 
-          **What does this book not teach me?**
-
-          *Actual coding, and how to improve your code quality directly.*
+          *   skills development,
 
 
-          There are so many amazing resources that can help you to learn how to
-          code. This book assumes you know what code is and as a developer you
-          would write code as a profession. What not many new developers know is
-          that while coding is what you get paid for, to keep your job you'll
-          need to know a lot more than "just code"!
+          *   working with developers under development
+
+
+          *   development development
+
+
+          Learn from a self-taught developer and many mentors' consolidated
+          years of wisdom all delivered in chapters that can be easily
+          internalized and reworked as you see fit.
         image: images/code-review.png
         image_alt: Brandon Guidelines Photo
         media_position: right
