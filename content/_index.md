@@ -258,6 +258,12 @@ sections:
           means to be a developer of computer web technologies in 2021.
 
 
+          Ok, actually the TL;DR is the book unpacking the Kaizen mental
+          model/framework (continuous improvement) and using this already proven
+          technique to your advantage on the journey to becoming a better
+          developer-you.
+
+
           Chock-full of practical, real-life examples on how to improve your
           daily developer workflow from tried, tested and repeatedly failed
           until true methods on,
