@@ -61,6 +61,13 @@ params:
         icon: linkedin
         icon_position: center
         new_window: true
+      - label: Github
+        url: 'https://vimeo.com/'
+        style: link
+        has_icon: true
+        icon: github
+        icon_position: center
+        new_window: true
       - label: Twitter
         url: 'https://twitter.com/'
         style: link
@@ -73,13 +80,6 @@ params:
         style: link
         has_icon: true
         icon: facebook
-        icon_position: center
-        new_window: true
-      - label: Github
-        url: 'https://vimeo.com/'
-        style: link
-        has_icon: true
-        icon: github
         icon_position: center
         new_window: true
     content: >-
