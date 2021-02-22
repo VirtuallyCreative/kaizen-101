@@ -60,7 +60,7 @@ sections:
           *   Apply Kaizen to your daily development routine
           *   Learn new development processes and practices
           *   Gain a deeper insight into the "why" behind decisions
-          *   Learn to manage impostor syndrome and use it to your advantage
+          *   Learn to manage impostor syndrome
           *   Learn about important "soft-skills" ideal for developers
           *   Working with difficult coworkers
           *   Handling advice during code reviews
