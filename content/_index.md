@@ -177,7 +177,7 @@ sections:
           - Landing page templates
           - Effective sales presentation starter
         actions:
-          - label: Start learning
+          - label: Peek at some Chapters
             url: /thank-you
             style: primary
             has_icon: true
