@@ -145,9 +145,9 @@ sections:
 
 
           True innovation comes from necessity. And since placing people into
-          "Saw"-like situations is illegal. learn to harness the power of human
-          psychology by implementing hackathons in a way that motivates and lets
-          people innovate.
+          "Saw"-like situations are frowned-upon, learn to harness the power of
+          human psychology by implementing hackathons in a way that motivates
+          and lets people innovate.
       - content: |
           ### Why Trust but Verify
 
