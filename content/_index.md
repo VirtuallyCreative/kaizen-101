@@ -114,8 +114,8 @@ sections:
 
           A brand is merely a collection of touchpoints between your company and
           your customers. Learn how to make those interactions count.
-      - content: |-
-          ### Content is King
+      - content: |
+          ### Why Documentation is Great
 
           What you should be writing about, where it should be published, who
           should read it, and what difference does it make. A comprehensive
