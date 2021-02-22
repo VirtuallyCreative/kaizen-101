@@ -259,7 +259,7 @@ sections:
           means to be a developer of computer web technologies in 2021.
 
 
-          Chock-full of practical (anecdotal) examples on how to improve your
+          Chock-full of practical, real-life examples on how to improve your
           daily developer workflow from tried, tested and repeatedly failed
           until true methods on,
 
