@@ -191,12 +191,13 @@ sections:
           *   Gain a fresh perspective on must-have skills as a developer
 
           *   Learn how to manage a team and accelerate your growth path
-      - content: |-
-          #### Business owners
-           - Kickstart your marketing plan and efforts
-           - Upgrade your brand, website and social media
-           - Prepare effective collateral for your business
-           - Start advertising your company online
+      - content: |
+          #### Lead / Principle Developers
+
+          *   Learn 
+          *   Upgrade your brand, website and social media
+          *   Prepare effective collateral for your business
+          *   Start advertising your company online
       - content: |-
           #### Product managers
            - Understand the context of your product work
