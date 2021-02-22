@@ -82,7 +82,7 @@ sections:
       - title: |-
           “This book is inspiring and practical. It’s thought-provoking and full
           of examples which definitely motivates me”
-        subtitle: 'Hilary Ouse, Sr. Marketing Manager at Company'
+        subtitle: 'Al Romano, Author - Kaizen 101 for Developers'
         image: images/al romano.png
         image_alt: Brandon Guidelines
         media_position: left
