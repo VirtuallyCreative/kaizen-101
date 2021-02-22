@@ -254,7 +254,6 @@ sections:
           years of wisdom all delivered in chapters that can be easily
           internalized and reworked as you see fit.
         image: images/code-review.png
-        image_alt: Brandon Guidelines Photo
         media_position: right
         media_width: fourty
     feature_padding_vert: small
