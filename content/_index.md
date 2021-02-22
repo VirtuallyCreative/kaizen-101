@@ -9,7 +9,7 @@ sections:
       framework on continuous improvement and use this to your advantage on the
       road to becoming a better you.
     actions:
-      - label: Get the book
+      - label: Get the e-book
         url: 'https://leanpub.com/kaizen101fordevelopers'
         style: primary
         has_icon: true
