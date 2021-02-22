@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Kaizen 101 for Developers
-    subtitle: Your guide to B2B marketing in the real world.
+    subtitle: Because code always runs on the first try.
     content: |-
       This book is your go-to guide for all marketing channels. Learn how to
       create effective landing pages, compelling ads, creative copywriting and
