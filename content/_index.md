@@ -96,7 +96,7 @@ sections:
     background_image_size: cover
     background_image_opacity: 10
   - type: grid_section
-    title: Topics included are
+    title: A few topics covered in depth
     grid_items:
       - content: |
           ### Why Best Practices
