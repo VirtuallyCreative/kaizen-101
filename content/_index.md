@@ -227,7 +227,7 @@ sections:
   - type: features_section
     features:
       - title: What can I expect?
-        subtitle: 'Al Romano, Self-Taught Developer'
+        subtitle: 'Al Romano, Professional Developer'
         content: >
           Kaizen 101 for Developers is a tongue-in-cheek approach to what it
           means to be a developer of computer web technologies in 2021.
