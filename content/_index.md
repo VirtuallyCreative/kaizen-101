@@ -250,12 +250,12 @@ sections:
 
           In this book, I will teach you everything I know about how to
           continually improve yourself which I believe leads one to be a
-          successful freelance developer. 
+          successful freelance developer.
 
 
-          ***What does this book not teach me? 
+          **What does this book not teach me?**
 
-          Actual coding, ***and how to improve your code quality directly. 
+          *Actual coding, and how to improve your code quality directly.*
 
 
           There are so many amazing resources that can help you to learn how to
