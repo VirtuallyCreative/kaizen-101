@@ -62,7 +62,7 @@ sections:
         media_width: thirty-three
     feature_padding_vert: small
     background_color: primary
-    background_image: images/code_rain_dark-wallpaper-1920x1080.jpg
+    background_image: images/kazien-101-bg.png
     background_image_repeat: no-repeat
     background_image_size: cover
     background_image_opacity: 10
