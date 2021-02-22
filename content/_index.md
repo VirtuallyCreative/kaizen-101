@@ -263,7 +263,7 @@ sections:
           would write code as a profession. What not many new developers know is
           that while coding is what you get paid for, to keep your job you'll
           need to know a lot more than "just code"!
-        image: images/brandon-guidelines.jpg
+        image: images/code-review.png
         image_alt: Brandon Guidelines Photo
         media_position: right
         media_width: fourty
