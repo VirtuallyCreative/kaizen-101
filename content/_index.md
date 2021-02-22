@@ -148,12 +148,20 @@ sections:
           "Saw"-like situations are frowned-upon, learn to harness the power of
           human psychology by implementing hackathons in a way that motivates
           and lets people innovate.
-      - content: |
+      - content: >
           ### Why Trust but Verify
 
-          There is no shortage of analytics tools for marketing campaigns —
-          email platforms, data centers, campaign dashboards and app
-          attribution... How to choose the right tools that will work for you.
+
+          Every day we learn about companies getting hacked and your data being
+          stolen. Fun.
+
+
+          Web developers play an essential part in the security of the web and
+          having good security practices from the start will be critical to
+          avoid painful mistakes.
+
+
+          Don't just Passw0rd1!
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: small
