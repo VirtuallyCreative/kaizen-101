@@ -79,9 +79,9 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: |-
-          “This book is inspiring and practical. It’s thought-provoking and full
-          of examples which definitely motivates me”
+      - title: >-
+          “This book is an homage to all those who helped me along my developer
+          journey. I hope it inspires the next generation as you did for me.”
         subtitle: 'Al Romano, Author - Kaizen 101 for Developers'
         image: images/al romano.png
         image_alt: Brandon Guidelines
