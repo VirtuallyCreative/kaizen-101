@@ -179,12 +179,18 @@ sections:
 
           *   Avoid common early mistakes starting out in a development
           profession
-      - content: |-
-          #### Designers
-           - Gain big picture insights that affect design
-           - Learn how your design can inspire action
-           - Make advertisements that convert
-           - Create digital assets for the right audience
+      - content: >
+          #### Senior Developers
+
+
+          *   New insight into some of your current processes & routines
+
+          *   Patterns for explaining complex technical items to non-technical
+          people
+
+          *   Gain a fresh perspective on must-have skills as a developer
+
+          *   Learn how to manage a team and accelerate your growth path
       - content: |-
           #### Business owners
            - Kickstart your marketing plan and efforts
