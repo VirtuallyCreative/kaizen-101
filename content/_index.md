@@ -250,7 +250,7 @@ sections:
 
           In this book, I will teach you everything I know about how to
           continually improve yourself which I believe leads one to be a
-          successful freelance developer.
+          successful developer.  
 
 
           **What does this book not teach me?**
