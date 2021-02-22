@@ -129,12 +129,17 @@ sections:
 
 
           Wrong.
-      - content: |
+      - content: >
           ### Why Documentation is Great
 
-          What you should be writing about, where it should be published, who
-          should read it, and what difference does it make. A comprehensive
-          guide to content marketing.
+
+          Run a team? Get a VR headset and play [Keep Talking and No One
+          Explodes](https://keeptalkinggame.com) (also on
+          [Android](https://play.google.com/store/apps/details?id=com.steelcrategames.keeptalkingandnobodyexplodes)
+          /
+          [iOS](https://apps.apple.com/us/app/keep-talking-nobody-explodes/id1445772666)).
+
+          Never under-appreciate good documentation ever again.
       - content: >
           ### Why Hack-o-thons
 
