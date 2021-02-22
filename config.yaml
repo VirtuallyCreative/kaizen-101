@@ -88,7 +88,7 @@ params:
       href="https://www.stackbit.com/?utm_source=deployed-footer"
       target="_blank" rel="noopener">Stackbit</a>. Create yours <a
       href="https://app.stackbit.com/create?theme=book&utm_source=deployed-footer"
-      target="_blank" rel="noopener">now</a>
+      target="_blank" rel="noopener">now</a><br/>
   domain: 'https://kaizen-101-00c5b.netlify.app'
 taxonomies:
   stub: stub
