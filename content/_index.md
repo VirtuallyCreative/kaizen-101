@@ -141,12 +141,12 @@ sections:
 
           Never under-appreciate good documentation ever again.
       - content: >
-          ### Why Hack-o-thons
+          ### Why Hack-a-thons
 
 
-          Google, Facebook, TikTok, LinkedIn — what should you use, and how? And
-          how do you know that it's actually working? Build a social media
-          strategy like a pro.
+          True innovation comes from necessity. Learn to harness the power of
+          human psychology by implementing hackathons in a way that motivates
+          and lets people innovate.
       - content: |
           ### Why Trust but Verify
 
