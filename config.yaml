@@ -9,7 +9,7 @@ params:
   header:
     title: Kaizen 101 for Developers
     logo: images/logo.svg
-    logo_alt: Marketing Playbook logo
+    logo_alt: Kaizen 101 for Developers Logo
     has_primary_nav: true
     primary_nav_links:
       - label: Pricing
