@@ -55,14 +55,15 @@ sections:
     features:
       - title: What’s Inside
         subtitle: Learn methodology behind successful developer patterns & routines
-        content: |-
-          - All you need to know about PPC
-          - How to create a brand that sells
-          - Putting together a multi-channel marketing plan
-          - Tracking, attribution and analytics
-          - Analyzing your competitors
-          - Marketing ads no one can ignore
-          - The social media of today
+        content: |
+          *   Learn about the Kaizen methodology
+          *   Apply Kaizen to your daily development routine
+          *   Learn new development processes and practices
+          *   Gain a deeper insight into the "why" behind decisions
+          *   Learn to manage impostor syndrome and use it to your advantage
+          *   Learn about important "soft-skills" ideal for developers
+          *   Working with difficult coworkers
+          *   Handling advice during code reviews
         actions:
           - label: Start learning
             url: /thank-you
