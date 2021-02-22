@@ -29,7 +29,6 @@ params:
     anncmnt_has_close: true
     anncmnt_id: new-features
   footer:
-    logo: images/logo.svg
     logo_alt: Marketing Playbook logo
     has_primary_nav: false
     primary_nav_title: Company
