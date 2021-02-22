@@ -228,23 +228,41 @@ sections:
     features:
       - title: What can I expect?
         subtitle: 'Al Romano, Self-Taught Developer'
-        content: |-
-          **Marketing in the real world** is very different than what we learn
-          at school. If you've recently graduated and are making your first
+        content: >
+          **Web Development in the real world** is very different than what we
+          learn
+
+          at school. If you've recently graduated some bootcamp and are making
+          your first
+
           steps in the business, it's imperative that you know how to use the
+
           tools and tricks of the trade.
 
 
-          > **The world of marketing has changed dramatically in the last 10
-          years. Those who understand it, will succeed. But those who stay
-          behind, will have a lot to catch up on.”**
+          > **The world of web development has changed dramatically in the last
+          10
+
+          > years. Those who understand it, will succeed. But those who stay
+
+          > behind, will have a lot to catch up on.”**
 
 
-          In this book I will teach you everything I know about B2B marketing.
-          From branding, marketing planning, content creation, SEO and PPC, to
-          segmenting your audience and understanding today's metrics and
-          analytics methodologies — this guide is the only marketing education
-          you'll ever need.
+          In this book, I will teach you everything I know about how to
+          continually improve yourself which I believe leads one to be a
+          successful freelance developer. 
+
+
+          ***What does this book not teach me? 
+
+          Actual coding, ***and how to improve your code quality directly. 
+
+
+          There are so many amazing resources that can help you to learn how to
+          code. This book assumes you know what code is and as a developer you
+          would write code as a profession. What not many new developers know is
+          that while coding is what you get paid for, to keep your job you'll
+          need to know a lot more than "just code"!
         image: images/brandon-guidelines.jpg
         image_alt: Brandon Guidelines Photo
         media_position: right
