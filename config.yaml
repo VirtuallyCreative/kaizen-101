@@ -8,7 +8,7 @@ params:
   base_font: sans-serif
   header:
     title: Kaizen 101 for Developers
-    logo: images/logo.svg
+    logo: images/kaizen101-sitelogo.png
     logo_alt: Kaizen 101 for Developers Logo
     has_primary_nav: true
     primary_nav_links:
