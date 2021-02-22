@@ -106,7 +106,7 @@ sections:
           is Stack Overflow.
 
 
-          *"Back in my day, we solved our own problems" 
+          *"Back in my day, we solved our own problems"
 
           \- Some Dinosaur Developer*
       - content: >
