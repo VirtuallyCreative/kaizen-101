@@ -27,9 +27,10 @@ params:
         url: 'https://leanpub.com/kaizen101fordevelopers'
         style: primary
     has_anncmnt: true
-    anncmnt_content: >-
-      Curabitur ac tellus mattis, tempor ipsum eu, eleifend sapien. **[Learn
-      More](/pricing/)**
+    anncmnt_content: >
+      Kaizen 101 for Developers is written by a Freelance developer expert with
+      over 15 years in the Canadian Web Freelance industry. [**Learn
+      More**](/pricing/)
     anncmnt_align: left
     anncmnt_is_home_only: true
     anncmnt_has_close: true
