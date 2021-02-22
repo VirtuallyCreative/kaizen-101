@@ -98,11 +98,14 @@ sections:
   - type: grid_section
     title: A few topics covered in depth
     grid_items:
-      - content: |
+      - content: >
           ### Why Best Practices
 
-          Discovery, research and pure intuition: How to slice and dice all the
-          information you can gather about your customers.
+
+          Learn from the pain of developers past. Bask in your glory of all that
+          is Stack Overflow. 
+
+          "Back in my day, we solved our own problems" - Some Dinosaur Developer
       - content: >
           ### Why Code Comments
 
