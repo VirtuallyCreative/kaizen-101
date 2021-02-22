@@ -118,11 +118,17 @@ sections:
 
 
           Can't do it? This chapter is for you!
-      - content: |
+      - content: >
           ### Why Bugs are Good
 
-          A brand is merely a collection of touchpoints between your company and
-          your customers. Learn how to make those interactions count.
+
+          Video-games taught me when I see bad guys, I'm going in the right
+          direction.
+
+          Bugs are like a developer's bad-guy, right?
+
+
+          Wrong.
       - content: |
           ### Why Documentation is Great
 
