@@ -5,9 +5,8 @@ sections:
     title: Kaizen 101 for Developers
     subtitle: Because code always runs on the first try.
     content: >
-      Kaizen 101 for Developers is a book Bootcamp to adopt an already proven
-      framework on continuous improvement and use this to your advantage on the
-      road to becoming a better you.
+      Kaizen 101 for Developers is a tongue-in-cheek approach to what it means
+      to be a developer of computer web technologies in 2021.
     actions:
       - label: Get the e-book
         url: 'https://leanpub.com/kaizen101fordevelopers'
