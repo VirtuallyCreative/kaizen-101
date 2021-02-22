@@ -158,10 +158,7 @@ sections:
 
           Web developers play an essential part in the security of the web and
           having good security practices from the start will be critical to
-          avoid painful mistakes.
-
-
-          Don't just Passw0rd1!
+          avoid painful mistakes. Passw0rd1! isn't as secure as you think it is.
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: small
