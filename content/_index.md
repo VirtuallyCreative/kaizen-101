@@ -237,8 +237,8 @@ sections:
 
 
           Chock-full of practical, real-life examples on how to improve your
-          daily developer workflow from tried, tested and repeatedly failed
-          until true methods on,
+          daily developer workflow from tried, tested and
+          repeatedly-failed-until-true methods on,
 
 
           *   personal development,
