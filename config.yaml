@@ -2,7 +2,7 @@ title: Stackbit Book Theme
 baseURL: /
 params:
   layout_type: full-width
-  style: bold
+  style: classic
   palette: gray
   mode: light
   base_font: serif
