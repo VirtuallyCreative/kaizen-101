@@ -24,7 +24,7 @@ params:
     has_secondary_nav: true
     secondary_nav_links:
       - label: Start Learning
-        url: /thank-you
+        url: 'https://leanpub.com/kaizen101fordevelopers'
         style: primary
     has_anncmnt: true
     anncmnt_content: >-
