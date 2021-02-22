@@ -167,7 +167,7 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: Practical Exercises
+      - title: Chapter Breakdown
         subtitle: How you'll implement what you learn
         content: |-
           - Multi-channel marketing plan tutorials
