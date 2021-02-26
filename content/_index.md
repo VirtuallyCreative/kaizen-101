@@ -73,8 +73,8 @@ sections:
           ### Why Best Practices
 
 
-          Learn from the pain of developers past. Bask in your glory of all that
-          is Stack Overflow.
+          Learn from the pain of developers past. Search Stack Overflow like a
+          boss!
 
 
           *"Back in my day, we solved our own problems"
