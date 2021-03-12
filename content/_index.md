@@ -141,8 +141,12 @@ sections:
       - title: Chapter Breakdown
         subtitle: A quick peek at all chapters in the book
         content: |
-          *   Kaizen 101 - What is it?
+          *   Kaizen 101
+          *   Building the Self
+          *   Building the Network
+          *   Be your Assistant
           *   Five Why's Deep
+          *   ... and more!
         actions:
           - label: Peek at some Chapters
             url: /thank-you
