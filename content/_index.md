@@ -140,13 +140,9 @@ sections:
     features:
       - title: Chapter Breakdown
         subtitle: A quick peek at all chapters in the book
-        content: |-
-          - Multi-channel marketing plan tutorials
-          - Brand questionnaire and worksheet
-          - Practice PPC campaigns
-          - 1hr consultation with a marketing guru
-          - Landing page templates
-          - Effective sales presentation starter
+        content: |
+          *   Kaizen 101 - What is it?
+          *   Five Why's Deep
         actions:
           - label: Peek at some Chapters
             url: /thank-you
