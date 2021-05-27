@@ -52,7 +52,7 @@ sections:
   - type: features_section
     features:
       - title: >-
-          “This book is an homage to all those who helped me along my developer
+          “This book is an hommage to all those who helped me along my developer
           journey; I hope it inspires the next generation of developers, as I
           was.”
         subtitle: 'Al Romano, Author - Kaizen 101 for Developers'
