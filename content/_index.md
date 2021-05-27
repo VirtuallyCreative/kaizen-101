@@ -196,8 +196,8 @@ sections:
 
           *   Improve team building and trust
 
-          *   Learn to provide growth potential in your team(s) capabilities and
-          business value
+          *   Learn to provide growth potential in your team(s) (capabilities as
+          business value)
 
           *   Learn to keep team performance high with minimal burnout
       - content: >
