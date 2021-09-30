@@ -92,7 +92,7 @@ params:
       href="https://www.freepik.com" title="Freepik">Freepik</a> from <a
       href="https://www.flaticon.com/"
       title="Flaticon">www.flaticon.com</a></div>
-  domain: 'https://kaizen-101-00c5b.netlify.app'
+  domain: 'https://kaizen101.dev'
 taxonomies:
   stub: stub
 disableKinds:
